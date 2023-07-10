@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo open StarWars IV
+#!/bin/bash 
+telnet towel.blinkenlights.nl
