@@ -1,1 +1,2 @@
 -1 printitng hello world and next line : echo "Hello, World \n"
+-1 : still using echo 
